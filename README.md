@@ -14,7 +14,7 @@ Git Repository:
 
  **Test**
  
-apiTest  - actual test
+Actual Tests  - apiTest/src/test/java/api.com.au/APITestClass.java
 
 ## Prerequisites
 
