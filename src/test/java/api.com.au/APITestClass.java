@@ -12,7 +12,7 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import static io.restassured.RestAssured.*;
 
-public class APITestClass extends WebHelper {
+public class APITestClass {
 
 	public String station[] = new String[2];
 	public String baseURL = "http://api.openweathermap.org/data/3.0/stations";
