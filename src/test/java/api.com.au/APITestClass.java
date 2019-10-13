@@ -2,7 +2,6 @@ package api.com.au;
 
 import static org.testng.Assert.assertEquals;
 import org.testng.annotations.Test;
-import common.WebHelper;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
