@@ -6,7 +6,7 @@ This test project is built on rest Assured, Selenium and TestNG  automation test
 Getting started:
 
 Git Repository: 
-[webTest](git@github.com:pankajsir/apiTest.git)
+[apiTest](git@github.com:pankajsir/apiTest.git)
 
 **Architecture**
 
