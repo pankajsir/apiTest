@@ -92,7 +92,7 @@ dependencies {
 }
 
 		
-	task testAPI( type:Test) {
+	task apiTest( type:Test) {
 	useTestNG() {
 	//set testNG output directory
 		testLogging.showStandardStreams = true
